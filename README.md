@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdqNXpqdzBqdWxjbXRuZThycHhueWcwOWF0YTVibmJveWFodjYzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif)
 
 <!--
 **azifniz/azifniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
